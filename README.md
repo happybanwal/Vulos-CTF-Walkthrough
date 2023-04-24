@@ -3,6 +3,10 @@
 # Overview
 In this write-up, I will be discussing my approach to solving the Vulos CTF challenge, which was based on network security. The challenge was given by my college, and I will explain the steps I took to solve it, including the tools and techniques I used along the way.
 
+# Link
+Machine link if you want to practice 🐱‍💻
+[Dowload file from here](https://drive.google.com/file/d/1ZKe1PMH-Op4kEnpwLO185e7-50JeVBoo/view?usp=sharing)
+
 
 # Steps
 1. First, I googled the VM IP address, which was 192.168.56.3. It led me to an Apache server page, and upon inspecting the page, I found the username "TEST".
